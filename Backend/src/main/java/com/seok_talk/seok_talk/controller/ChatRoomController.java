@@ -1,12 +1,8 @@
 package com.seok_talk.seok_talk.controller;
 
-
-
-
 import com.seok_talk.seok_talk.domain.ChatRoom;
 import com.seok_talk.seok_talk.repository.WebSockRepository;
 import lombok.RequiredArgsConstructor;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
